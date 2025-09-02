@@ -19,7 +19,7 @@ ContentHub is a modern, responsive, and customizable content dashboard that allo
 ---
 
 ### Demo Video
-[Watch the demo on YouTube](https://drive.google.com/file/d/1VF37cTqVXmZv-kZfE0_Uchf4juds-HHD/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1mh0vKC0EOCG1M5h5SJCpSzU9eUCqSm4e/view?usp=drive_link)
 
 
 
